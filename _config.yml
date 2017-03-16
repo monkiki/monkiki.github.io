@@ -1,2 +1,3 @@
 name: Monkiki
 markdown: kramdown
+permalink: /:year/:month/:day/:title.html
