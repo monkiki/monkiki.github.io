@@ -1,3 +1,8 @@
 name: Monkiki
 markdown: kramdown
 permalink: /:year/:month/:day/:title.html
+paginate_path: "/p:num/"
+paginate: 5
+gems:
+  - jekyll-paginate
+#excerpt_separator: <!-- more -->

@@ -12,7 +12,7 @@ categories:
 ---
 
 Ante la inclusión en el Anteproyecto de Ley de Economía sostenible de modificaciones legislativas que afectan al libre ejercicio de las libertades de expresión, información y el derecho de acceso a la cultura a través de Internet, los periodistas, bloggers, usuarios, profesionales y creadores de internet manifestamos nuestra firme oposición al proyecto, y declaramos que:
-	
+
   1. **Los derechos de autor no pueden situarse por encima de los derechos fundamentales de los ciudadanos,** como el derecho a la privacidad, a la seguridad, a la presunción de inocencia, a la tutela judicial efectiva y a la libertad de expresión.
 
   2. **La suspensión de derechos fundamentales es y debe seguir siendo competencia exclusiva del poder judicial. Ni un cierre sin sentencia.** Este anteproyecto, en contra de lo establecido en el [artículo 20.5 de la Constitución](http://narros.congreso.es/constitucion/constitucion/indice/sinopsis/sinopsis.jsp?art=20&tipo=2), pone en manos de un órgano no judicial -un organismo dependiente del ministerio de Cultura-, la potestad de impedir a los ciudadanos españoles el acceso a cualquier página web.
@@ -33,6 +33,6 @@ Ante la inclusión en el Anteproyecto de Ley de Economía sostenible de modifica
 
   10. **En democracia las leyes y sus modificaciones deben aprobarse tras el oportuno debate público y habiendo consultado previamente a todas las partes implicadas.** No es de recibo que se realicen cambios legislativos que afectan a derechos fundamentales en una ley no orgánica y que versa sobre otra materia.
 
-_Este manifiesto, elaborado de forma conjunta por varios autores, es de todos y de ninguno. Se ha publicado en multitud de sitios web. Si estás de acuerdo y quieres sumarte a él, difúndelo por Internet._
+*Este manifiesto, elaborado de forma conjunta por varios autores, es de todos y de ninguno. Se ha publicado en multitud de sitios web. Si estás de acuerdo y quieres sumarte a él, difúndelo por Internet.*
 
 También está disponible en [inglés](http://www.boingboing.net/2009/12/02/spanish-activists-is.html), [catalán](http://www.microsiervos.com/docs/Manifest-defensa-dels-drets.txt), [gallego](http://www.microsiervos.com/docs/Manifesto-defensa-dos-dereitos.txt), [asturiano](http://www.microsiervos.com/docs/manifiestu-defensa-drechos.txt), [aragonés](http://www.purnas.com/2009/12/02/crida-en-esfensa-dos-dreitos-alazetals-en-internet/) y [portugués brasileiro](http://animot.blogspot.com/2009/12/manifesto-em-defesa-dos-direitos.html).
