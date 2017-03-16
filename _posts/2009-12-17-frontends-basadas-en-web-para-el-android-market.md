@@ -11,7 +11,7 @@ categories:
 - Android
 ---
 
-Hay varios frontends de Android Market que permiten buscar y ver la descripción, capturas y comentarios de las aplicaciones. Es más cómodo de usar que el market del móvil pro cuestiones obvias :) También muestran junto a cada aplicación su QR Code correspondiente. Este tipo de código se puede leer con la aplicación _[Barcode Scanner](http://www.androidzoom.com/android_applications/shopping/barcode-scanner_clh.html) _la cual lo interpreta y permite localizar la aplicación asociada en el Market del móvil, simplificando la instalación de la misma.
+Hay varios frontends de Android Market que permiten buscar y ver la descripción, capturas y comentarios de las aplicaciones. Es más cómodo de usar que el market del móvil pro cuestiones obvias :) También muestran junto a cada aplicación su QR Code correspondiente. Este tipo de código se puede leer con la aplicación [Barcode Scanner](http://www.androidzoom.com/android_applications/shopping/barcode-scanner_clh.html) la cual lo interpreta y permite localizar la aplicación asociada en el Market del móvil, simplificando la instalación de la misma.
 
   * **[http://www.cyrket.com/](http://www.cyrket.com/)** Este fue el pionero en este mundillo. El diseño era más bien cutre pero cumplía a la perfección su cometido. Rápido y funcional. Es una lástima que ya no funcione. Según he visto por distintos foros, parece que un cambio en el API de la última versión del Android Market le impidió seguir ofreciendo este servicio. Por lo menos podrían haber puesto un mensaje en la página, porque no se ve nada.
 	
