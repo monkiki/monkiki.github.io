@@ -12,7 +12,9 @@ categories:
 - Ubuntu
 ---
 
-La versión del Arduino IDE que viene en los repositorios de Ubuntu / Linux Mint es muy antigua: es la 1.0.5 y en estos momentos la última versión disponible para descargar es la 1.6.7. Como no he encontrado ningún PPA con la última versión, comento los pasos a seguir para poder instalar la versión que se descarga.
+La versión del Arduino IDE que viene en los repositorios de Ubuntu / Linux Mint es muy antigua: es la
+1.0.5 y en estos momentos la última versión disponible para descargar es la 1.6.7. Como no he encontrado
+ningún PPA con la última versión, comento los pasos a seguir para poder instalar la versión que se descarga.
 
   * Descarga el archivo de [https://www.arduino.cc/en/Main/Software](https://www.arduino.cc/en/Main/Software)
 
@@ -40,4 +42,5 @@ $ /opt/arduino-1.6.7/install.sh
 $ useradd -G dialout username
 {% endhighlight %}
 
-Este último paso es importante para poder programar nuestro Arduino ya que si no, dará un error de que no tiene permisos de escrituras en el pue
+Este último paso es importante para poder programar nuestro Arduino ya que si no, dará un error por que
+no tiene permisos de escrituras en el puerto.
