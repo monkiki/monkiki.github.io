@@ -36,8 +36,10 @@
       </div>
     </nav>
     <div class="container">
-      <div class="content">{{ content }}</div>
-      <div class="stuff">{% include recent.html %}</div>
+      <div class="row">
+        <div class="col-md-9">{{ content }}</div>
+        <div class="col-md-3">{% include recent.html %}</div>
+      </div>
     </div>
     <footer>
       <!--

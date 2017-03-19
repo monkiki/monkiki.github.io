@@ -4,7 +4,7 @@ title: Cosicosas
 ---
 <div class="posts">
   {% for post in site.posts offset: 0 limit: 3 %}
-    <div class="post">
+    <div class="post-main">
       <h2>{{ post.title }}</h2>
       <p class="meta"><span class="glyphicon glyphicon-calendar"></span> {{ post.date | date_to_string }}</p>
       <p>{{ post.content }}</p>

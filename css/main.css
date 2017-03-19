@@ -23,23 +23,15 @@ ul.recent > li {
   margin-top: 10px;
 }
 
-div.content {
-  width: 70%;
-  float: left;
-  padding-right: 30px;
-}
-
-div.stuff {
-  width: 30%;
-  float: right;
-  padding-left: 20px;
-}
-
-div.post, div.stuff-box {
+div.post, div.post-main, div.stuff-box {
   padding: 1px 15px 15px 15px;
   background-color: #FFF;
   margin-bottom: 20px;
   border-radius: 7px; 
+}
+
+div.post {
+  margin-bottom: 0;
 }
 
 div.pagination {
