@@ -8,7 +8,6 @@ slug: personalizacion-de-campos-en-mantis
 title: Personalización de campos en Mantis
 wordpress_id: 118
 categories:
-- Java
 - Ubuntu
 ---
 

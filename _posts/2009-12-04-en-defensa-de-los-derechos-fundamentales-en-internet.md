@@ -8,7 +8,7 @@ slug: en-defensa-de-los-derechos-fundamentales-en-internet
 title: En defensa de los derechos fundamentales en Internet
 wordpress_id: 54
 categories:
-- Libertad
+- Varios
 ---
 
 Ante la inclusión en el Anteproyecto de Ley de Economía sostenible de modificaciones legislativas que afectan al libre ejercicio de las libertades de expresión, información y el derecho de acceso a la cultura a través de Internet, los periodistas, bloggers, usuarios, profesionales y creadores de internet manifestamos nuestra firme oposición al proyecto, y declaramos que:

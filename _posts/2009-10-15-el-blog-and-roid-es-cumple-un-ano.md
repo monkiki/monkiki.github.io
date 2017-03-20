@@ -9,7 +9,6 @@ title: El blog and.roid.es cumple un año
 wordpress_id: 51
 categories:
 - Android
-- Java
 ---
 
 Estamos de cumpleaños. El blog [and.roid.es](http://and.roid.es/) que tantas noticias sobre [Android](http://and.roid.es/) nos trae a los mortales celebra su primer años de existencia. Para festejarlo [regala un HTC Magic Negro](http://and.roid.es/androides-sorteo-aniversario-htc-magic-vodafone.html).

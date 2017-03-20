@@ -3,10 +3,17 @@ layout: default
 ---
 <div class="post">
   <h2>{{ page.title }}</h2>
-  <p class="meta"><span class="glyphicon glyphicon-calendar"></span> {{ page.date | date_to_string }}</p>
+  <p class="date">
+    <span class="glyphicon glyphicon-calendar"></span> {{ page.date | date_to_string }}
+  </p>
   <div class="post-content">
     {{ content }}
   </div>
+  <p class="categories">
+    {% for category in page.categories %}
+      <span class="glyphicon glyphicon-folder-open"></span> <a href="/categories#{{ category | slugify }}">{{ category }}</a>
+    {% endfor %}
+  </p>
 </div>
 <div class="page-navigation">
  {% if page.previous.url %}

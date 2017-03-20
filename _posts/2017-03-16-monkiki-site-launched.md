@@ -2,7 +2,8 @@
 layout: post
 title: "Nueva plataforma y migración"
 date: 2017-03-16
-published: true
+categories:
+- Varios
 ---
 
 Después de un tiempo sin escribir nada he decidido a retomar el blog, pero para cambiar un poco

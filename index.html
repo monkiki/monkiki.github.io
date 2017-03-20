@@ -8,6 +8,11 @@ title: Cosicosas
       <h2>{{ post.title }}</h2>
       <p class="meta"><span class="glyphicon glyphicon-calendar"></span> {{ post.date | date_to_string }}</p>
       <p>{{ post.content }}</p>
+      <p class="categories">
+        {% for category in post.categories %}
+          <span class="glyphicon glyphicon-folder-open"></span> <a href="/categories#{{ category | slugify }}">{{ category }}</a>
+        {% endfor %}
+      </p>
     </div>
   {% endfor %}
 </div>
