@@ -11,12 +11,16 @@ categories:
 ---
 
 Me he visto envuelto en un proyecto que requiere que el reloj de la Raspberry Pi esté siempre en hora.
-Este dispositivo no dispone de un RTC (Real Time Clock), por lo que cada vez que se apaga
-se pierde la hora y en el inicio la intenta recuperar a través de Internet haciendo uso del protocolo NTP.
+Este dispositivo no dispone de un RTC (Real Time Clock), por lo que cada vez que se apaga se pierde la
+hora y en el inicio la intenta recuperar a través de Internet haciendo uso del protocolo NTP.
 
 En este caso, el dispositivo no tendrá acceso a Internet de modo que se las tendrá que apañar por sí sólo.
 Suerte que hace poco compré un módulo DS3231 en Aliexpress, que es la pieza que faltaba en el puzzle. Por
 tanto paso a detallar la configuración del mismo, que tiene su miga.
+
+Para comunicarnos con este módulo haremos uso del protocolo I2C. Pero... qué es I2C? Pues se trata de un
+bus serie que nos permite conectar varios dispositivos a un controlador con sólo dos líneas: CLK (Serial Clock)
+y SDA (Serial Data). Cada dispositivo tiene una dirección predeterminada que se usa para poderse comunicar con él. 
 
 Lo primero es saber conectarlo, cosa que se indica en esta tabla:
 
