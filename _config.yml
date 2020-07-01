@@ -3,6 +3,6 @@ markdown: kramdown
 permalink: /:year/:month/:day/:title.html
 paginate_path: "/p:num/"
 paginate: 5
-gems:
+plugins:
   - jekyll-paginate
 #excerpt_separator: <!-- more -->
