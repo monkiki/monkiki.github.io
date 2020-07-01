@@ -13,9 +13,17 @@ $ apt install jekyll ruby-jekyll-paginate
 
 Una vez instalado lo ejecutamos con el parámetro **server** para hacer pruebas en local:
 
-```
+```sh
 $ jekyll serve
 ```
+
+Una vez terminada la edición lo publicamos subiéndolo a Github:
+
+```sh
+$ git push
+```
+
+Pasados unos segundos la nueva entrada estará disponible en https://monkiki.github.io/
 
 ## Extra
 
