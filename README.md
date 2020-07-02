@@ -9,12 +9,20 @@ Podemos instalar el paquete desde el repositorio de Ubuntu:
 $ apt install jekyll ruby-jekyll-paginate
 ```
 
+También puedes usar Docker, con lo que te ahorras de instalar los paquetes.
+
 ## Uso
 
 Una vez instalado lo ejecutamos con el parámetro **server** para hacer pruebas en local:
 
 ```sh
 $ jekyll serve
+```
+
+En el caso de usar Docker, existe un Makefile que facilita el uso:
+
+```sh
+$ make serve
 ```
 
 Una vez terminada la edición lo publicamos subiéndolo a Github:

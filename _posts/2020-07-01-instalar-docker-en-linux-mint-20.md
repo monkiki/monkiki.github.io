@@ -13,7 +13,7 @@ Para instalar Docker en Linux Mint 20 (también aplica a Ubuntu 20.04 Focal Foss
 - Instalar la versión de Docker de los repositorios de Ubuntu
 - Instalar la versión del repositorio de Docker
 
-A mi me gusta más la segunda opción porque instala una versión más actual de Docker y se actualiza más a menudo. Para ello seguimos estos pasos:
+A mi me gusta más la segunda opción porque instala una versión más reciente de Docker y se actualiza más a menudo. Para ello seguimos estos pasos:
 
 {% highlight bash %}
 $ echo "deb [arch=amd64] https://download.docker.com/linux/ubuntu focal stable" | sudo tee /etc/apt/sources.list.d/docker.list
